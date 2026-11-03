@@ -1,4 +1,4 @@
-# Kel9-TugasNodeRED-ESP32
+# Kel2-TugasNodeRED-ESP32
 tugas mata kuliah IoT dan Jaringan Sensor
 
 pada link gifthub yang ada pada kel9-TugasNodeRED-ESP32 kami
